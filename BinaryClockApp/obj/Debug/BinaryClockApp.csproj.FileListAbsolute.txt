@@ -1,0 +1,25 @@
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Debug\BinaryClockApp.exe.config
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Debug\BinaryClockApp.exe
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Debug\BinaryClockApp.pdb
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.csprojAssemblyReference.cache
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.csproj.CoreCompileInputs.cache
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.exe
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.pdb
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.Properties.Resources.resources
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.csproj.GenerateResource.cache
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Debug\Properties\Resources.resx
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Debug\media\tick.wav
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\bin\Debug\media\tick.wav
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\bin\Debug\Properties\Resources.resx
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\bin\Debug\Properties\Resources.Designer.cs
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\bin\Debug\BinaryClockApp.exe.config
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\bin\Debug\BinaryClockApp.exe
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\bin\Debug\BinaryClockApp.pdb
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.csproj.AssemblyReference.cache
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.csproj.SuggestedBindingRedirects.cache
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.Properties.Resources.resources
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.csproj.GenerateResource.cache
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.csproj.CoreCompileInputs.cache
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.exe
+H:\ISKOLA , Tananyag\c sharp kódok\repositorik\repos\BinaryClockApp\BinaryClockApp\obj\Debug\BinaryClockApp.pdb

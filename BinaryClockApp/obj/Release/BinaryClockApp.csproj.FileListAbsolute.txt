@@ -1,0 +1,12 @@
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Release\BinaryClockApp.exe.config
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Release\BinaryClockApp.exe
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Release\BinaryClockApp.pdb
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Release\BinaryClockApp.csprojAssemblyReference.cache
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Release\BinaryClockApp.csproj.CoreCompileInputs.cache
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Release\BinaryClockApp.exe
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Release\BinaryClockApp.pdb
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Release\Properties\Resources.resx
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Release\Properties\Resources.Designer.cs
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Release\BinaryClockApp.Properties.Resources.resources
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\obj\Release\BinaryClockApp.csproj.GenerateResource.cache
+C:\Users\vorag\source\repos\BinaryClockApp\BinaryClockApp\bin\Release\media\tick.wav
